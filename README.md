@@ -14,4 +14,4 @@ Continue playing as long as you can repeat each sequence of sig- nals correctly.
 
 If you fail to repeat a sequence exactly, or if you take more than 5 seconds to repeat a signal, Simon responds with a "RAZZ" sound. This means you've lost, and the sequence of signals ends.
 
-<a href="https://mukeshpandey9.github.io/Simon-Game/">Demo Link</a>
+<a href="https://mukeshpandey9.github.io/Simon-Game/" target="_blank" >Demo Link</a>
